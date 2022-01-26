@@ -20,7 +20,7 @@ El curso Diseño de dispositivos para el Internet de las Cosas es una introducci
 
 ## Material adicional
 
-* **Política de bonos 2021I** [PDF](https://github.com/marcoteran/internetofthings/raw/master/files/_others/BONOSpolicy_2022I.pdf)
+* **Política de bonos 2021I** [PDF](https://github.com/marcoteran/iotdevicedesign/raw/master/files/_others/BONOSpolicy_2022I.pdf)
 
 
 ## Foro literario
