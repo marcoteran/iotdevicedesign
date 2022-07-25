@@ -6,8 +6,7 @@
 El curso Diseño de dispositivos para el Internet de las Cosas es una introducción al diseño y análisis de dispositivos para el Internet-de-Cosas.
 
 ## Información
-* **Telegram group:** [enlace](https://t.me/+ePomzL-X2sIzZjU5)
-* **Google classroom:** [enlace](https://classroom.google.com/c/NDU4NDA0NTkxOTAy?cjc=zvaa24m) Código: zvaa24m
+* **Telegram group:** [enlace](https://t.me/+jQOTDbN0mXoxM2E5)
 
 ## Contenido
 
@@ -19,9 +18,6 @@ El curso Diseño de dispositivos para el Internet de las Cosas es una introducci
 
 
 ## Material adicional
-
-* **Política de bonos 2021I** [PDF](https://github.com/marcoteran/iotdevicedesign/raw/master/files/_others/BONOSpolicy_2022I.pdf)
-
 
 ## Foro literario
 Libro para leer durante el semestre:
